@@ -5,5 +5,13 @@
 
 #ifndef DATASTRUCT_C_BASICDEF_STRUCT_H
 #define DATASTRUCT_C_BASICDEF_STRUCT_H
+#include "stdio.h"
+#include "math.h"
+#include "string.h"
+#include "stdlib.h"
+#define OK 1
+#define ERROR 0
+
+typedef int status;
 
 #endif //DATASTRUCT_C_BASICDEF_STRUCT_H
