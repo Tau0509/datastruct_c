@@ -123,7 +123,7 @@ status putinLinearList(LL l,elemtype a){
 
 int main(){
     LL test= (LL)malloc(sizeof (LinearList));
-    printf("%d",initLinearList(test));
+    initLinearList(test);
     int c;
     for(int i=0;i<=10;i++){
         scanf("%d",&c);
