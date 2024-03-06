@@ -10,9 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc98d6c-4d4a-461a-953e-7a59e2a9cd73" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/linearlist.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicdef_struct.h" beforeDir="false" afterPath="$PROJECT_DIR$/basicdef_struct.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linearlist.c" beforeDir="false" afterPath="$PROJECT_DIR$/linearlist.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ 文件.linearlist.c.executor": "Run",
     "C/C++ 文件.test.c.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -59,7 +60,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C/C++ 文件.linearlist.c">
+    <configuration name="linearlist.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct_c" TARGET_NAME="linearlist.c" CONFIG_NAME="linearlist.c">
+      <option name="sourceFile" value="linearlist.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct_c" TARGET_NAME="test.c" CONFIG_NAME="test.c">
       <option name="sourceFile" value="test.c" />
       <method v="2">
@@ -68,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.linearlist.c" />
         <item itemvalue="C/C++ 文件.test.c" />
       </list>
     </recent_temporary>
@@ -82,7 +90,8 @@
       <updated>1709608882377</updated>
       <workItem from="1709608884252" duration="135000" />
       <workItem from="1709609585945" duration="420000" />
-      <workItem from="1709641410380" duration="3248000" />
+      <workItem from="1709641410380" duration="4160000" />
+      <workItem from="1709686385387" duration="4008000" />
     </task>
     <servers />
   </component>

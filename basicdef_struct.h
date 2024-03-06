@@ -11,6 +11,7 @@
 #include "stdlib.h"
 #define OK 1
 #define ERROR 0
+#define NO -1
 
 typedef int status;
 
